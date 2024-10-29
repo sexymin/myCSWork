@@ -20,9 +20,8 @@
 '''
 ##############MAKE###############
 def gugudan(dan):
-    # Put your work here
-    for each in range(1,10,1):
-        print(each*dan)
+    for each in range(1, 10):
+        print(dan * each)
 ##############RUN################
 gugudan(2)
 gugudan(3)
