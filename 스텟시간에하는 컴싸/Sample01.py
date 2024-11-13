@@ -20,19 +20,19 @@ def findMedian(givenList : list) -> int:
 def findRange(givenList : list) -> int:
     return max(givenList) - min(givenList)
 
-
+# 여긴 셈플01 자리~
 print("Sample01:")
 print("Mean:", findMean(sample01))
 print("Mode:", findMode(sample01))
 print("Median:", findMedian(sample01))
 print("Range:", findRange(sample01))
-
+# 여긴 셈플02 자리~
 print("Sample02:")
 print("Mean:", findMean(sample02))
 print("Mode:", findMode(sample02))
 print("Median:", findMedian(sample02))
 print("Range:", findRange(sample02))
-
+# 여긴 셈플03 자리~
 print("Sample03:")
 print("Mean:", findMean(sample03))
 print("Mode:", findMode(sample03))
